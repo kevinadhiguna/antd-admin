@@ -21,6 +21,17 @@ An excellent front-end solution for enterprise applications.
 
 </div>
 
+## Demo
+
+<div align="center">
+  <img src="https://s6.gifyu.com/images/57fhw3443kt4n3w.png" alt="57fhw3443kt4n3w.png" border="0" />
+  <img src="https://s6.gifyu.com/images/78k4dskfneskew.png" alt="78k4dskfneskew.png" border="0" />
+  <img src="https://s6.gifyu.com/images/87kajr4t45ef.png" alt="87kajr4t45ef.png" border="0" />
+  <img src="https://s6.gifyu.com/images/45jsdfkjenfeks.png" alt="45jsdfkjenfeks.png" border="0" />
+  <img src="https://s6.gifyu.com/images/88ksdhgrh54e.png" alt="88ksdhgrh54e.png" border="0" />
+  <img src="https://s6.gifyu.com/images/99ljsdnf-ewkneewf.png" alt="99ljsdnf-ewkneewf.png" border="0" />
+</div>
+
 - Preview - [https://antd-admin.zuiidea.com](https://antd-admin.zuiidea.com)
 - Documentation - [https://doc.antd-admin.zuiidea.com](https://doc.antd-admin.zuiidea.com)
 - FAQ - [https://doc.antd-admin.zuiidea.com/#/faq](https://doc.antd-admin.zuiidea.com/#/faq)
